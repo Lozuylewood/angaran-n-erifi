@@ -2,7 +2,7 @@ DESKTOP-0LV4HJ0 LiderLozuylewood
 CAN Can
 DESKTOP-U0OEHV0 Azad
 DESKTOP-LF78JT2 Guxway
-Exponental-3155 Cilekes
+DESKTOP-MJOTDSI Cilekes
 DESKTOP-UHAQPAQ calleillegal
 SEMIH Kofik
 DESKTOP-71NVQB8 wopsy
