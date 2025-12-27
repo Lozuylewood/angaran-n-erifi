@@ -8,3 +8,4 @@ SEMOCAN Kofik
 DESKTOP-VPIV1U6 wopsy
 DESKTOP-A01FHFE Hellhoundingo
 DESKTOP-Q0HKLHN SamRole
+DESKTOP-A05H3DS Halis mulis orospu çocu
