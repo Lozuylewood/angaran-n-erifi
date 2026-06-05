@@ -10,3 +10,4 @@ DESKTOP-U0OEHV0 Jasmineanali
 GALIP Veled2
 DESKTOP-MAVOKPJ scarface
 CAN Can
+OWN -kun
